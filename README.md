@@ -1,7 +1,6 @@
 Title: Mango Quality Classification Using SVM Classifier
 
-Description:
-GitHub Repository: [Link to Your Repository]
+
 
 Overview:
 Welcome to the "Classification of Mango Quality" project repository! This machine learning project leverages a Support Vector Machine (SVM) classifier to classify mangoes based on key physical parameters, including weight, length, and circumference. The project assigns a grade to each mango, ranging from 1 to 5, to assist in quality assessment.
